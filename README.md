@@ -1,6 +1,6 @@
 # Tumor brain CNN
-A jupyter example of a CNN model to predict and classify tumor brain x-rays images.
-Developed on Kaggle notebook with CPU.
+A jupyter example of a CNN model to predict and classify tumor brain according to X-Rays images.
+Developed on **Kaggle** notebook with CPU.
 
 Below the steps done:
 
